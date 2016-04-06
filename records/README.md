@@ -1,3 +1,7 @@
 This folder contains multiple lists of gravure series and indicates which number is good.   
- - Choice.txt - The choice of some gravure series
- 
+ - ROSI.txt
+ - BoLoli.txt
+ - FeiLin.txt
+ - UXING.txt
+ - IMISS.txt
+ - RU1MM.txt
