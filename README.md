@@ -1,7 +1,7 @@
 ## Python Crawler
 The very simple python crawler tool for collecting some beautiful images.   
 
-Python version : 3.3 up   
+Python3 is required
 Packages : pip, requests, pyquery    
 
 In Windows envirment, the installation of pyquery may complaint about some Visual Studio Compiler issue. Follow the 
